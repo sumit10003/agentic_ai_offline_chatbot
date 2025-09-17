@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+*.log
+*.log.*
+logs/
+
+# Built output
+/build/
+/dist/
+
+# Editor backups and settings
+*.swp
+*.bak
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*~
+
+# environments
+venv/
+
+# files
+check.ipynb
+ollamatest.py
+script_writer.ipynb
