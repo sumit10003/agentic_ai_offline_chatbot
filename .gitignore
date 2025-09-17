@@ -33,3 +33,8 @@ venv/
 check.ipynb
 ollamatest.py
 script_writer.ipynb
+
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
